@@ -185,14 +185,13 @@ main{
    padding: 150px 150px;
 
 }
-.contract input[type="text"],  textarea{
-     margin-bottom: 20px;
+.contract-form input, textarea{
+ margin-bottom: 20px;
     display: block;
     padding: 10px 20px;
     color: #757575;
     border-radius: 5px;
-     border: 0;
-     width: 100%;
+     /* border: 0; */
     
 }
 /* footer section end  */
