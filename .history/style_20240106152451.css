@@ -131,9 +131,7 @@ main{
     border-radius: 5px;
     margin: 10px;
     box-shadow:10px 10px 10px rgba(122, 333, 455, .4),
-          -10px 10px 10px rgba(122, 220, 300, .5),
-          inset 15px 15px 22px rgba(122, 333, 455, .4),
-          inset -15px 15px 22px rgba(122, 333, 455, .4);
+          -10px 10px 10px rgba(122, 220, 300, .5)
 }
 .kill img{
     height:40px;

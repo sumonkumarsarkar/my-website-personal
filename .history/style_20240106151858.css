@@ -128,17 +128,11 @@ main{
     height: 377px;
     width: 267px;
     background: #FFFFFF;
-    border-radius: 5px;
-    margin: 10px;
-    box-shadow:10px 10px 10px rgba(122, 333, 455, .4),
-          -10px 10px 10px rgba(122, 220, 300, .5),
-          inset 15px 15px 22px rgba(122, 333, 455, .4),
-          inset -15px 15px 22px rgba(122, 333, 455, .4);
 }
 .kill img{
     height:40px;
     width: 40px;
-    margin-top:50px;
+    margin-top:40px;
     padding: 10px;
 }
 .kill img{

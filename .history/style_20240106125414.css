@@ -112,43 +112,10 @@ main{
     margin-top: 10px;
 }
 .about-info-container h4{
-    margin: 0 auto;
+    text-align: center;
 }
 
 .what-section{
-    max-width: 1140px;
-    margin: 0 auto;
-}
-.skill-container{
-    display:flex;
-    margin-top:40px;
-
-}
-.skill{
-    height: 377px;
-    width: 267px;
-    background: #FFFFFF;
-    border-radius: 5px;
-    margin: 10px;
-    box-shadow:10px 10px 10px rgba(122, 333, 455, .4),
-          -10px 10px 10px rgba(122, 220, 300, .5),
-          inset 15px 15px 22px rgba(122, 333, 455, .4),
-          inset -15px 15px 22px rgba(122, 333, 455, .4);
-}
-.kill img{
-    height:40px;
-    width: 40px;
-    margin-top:50px;
-    padding: 10px;
-}
-.kill img{
-
-    margin-top: 10px;
-    padding: 10px;
-}
-.skill .skill-item{
-    width: 204px;
-    height: 243px;
-    margin-top: 10px;
-    padding: 10px;
+    max-width: 1140;
+    align-items: center;
 }
