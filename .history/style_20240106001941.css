@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+      font-family: 'Oswald', sans-serif;
+}
+nav{
+    display: flex;
+    font-size: 45px;
+    color: black;
+    line-height: normal;
+    font-weight: 800;
+}

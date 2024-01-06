@@ -8,45 +8,43 @@ body{
 }
 nav{
     display: flex;
-   align-items: center;
-    justify-content:space-between;
-}
-
-.nav-title{
-    font-size:45px;
+    font-size: 45px;
     color:#181818;
     line-height: normal;
     font-weight: 800;
+    align-items: center;
+    justify-content:space-between;
 }
 .text-primary{
 
     color:#FD6E0A;
     
 }
-nav ul{
+nav> ul{
     display:flex;
-   align-items: center;
 }
-nav a{
-    text-decoration:none;
+nav> ul> li> a{
+    text-decoration: none;
 }
-nav li{
+nav> ul> li{
  list-style: none;
- margin:50px;
+}
+nav> ul> li{
+margin:50px;
 font-size:20px;
 color:#474747;
-text-align:center;
 }
-
-.btn-button{
+nav> ul> li .hire-button{
     height:64px;
     width: 150px;
     color: #ffff;
     background: #FD6E0A;
     border-radius: 5px;
     font-size: 20px;
-    border:0;
-    font-weight: 700;
-    padding: 18px 36px; 
+    border: none;
+    
 }
 
+na> ul{
+   
+}
