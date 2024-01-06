@@ -159,10 +159,6 @@ main{
     max-width: 1140px;
    
 }
-.section-resume{
-    max-width: 1140px;
-   
-}
 .summary-title{
     text-align: center;
     margin-bottom:20px;
@@ -172,23 +168,10 @@ main{
 }
 
 
-/* footer section start  */
 
-.footer-section{
-    max-height: 780px;
-    background: #fff8f3;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
+    .align-items: center;
 }
-.footer-section .contract-section{
-   padding: 150px 150px;
-
-}
-/* footer section end  */
-
-
-
 
 
 
